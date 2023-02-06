@@ -4,6 +4,10 @@ At times when constructing an image or a creating movie, the photographers or fi
 
 A number of popular movies (including The Avengers, The Hobbit, Star Wars, etc) use greenscreens (or blue screens) during the process of film-making. Shown below are several before/after examples from movies that show how a greenscreen was used to drastically change the background of a scene from a move. (From left to right: The Hobbit, The Avengers, Alice in Wonderland).
 
+![image](https://user-images.githubusercontent.com/114122236/216897979-bb423577-d736-4681-aa2e-c56710a96322.png)
+![image](https://bddicken.github.io/cs110fall2022website/pas/greenscreen/res/gs2.jpg)
+
+
 The first example is a shot from Rivendell in the Lord of the Rings world. Now, it is perhaps possible that the filmmakers could have searched earth for a mountainous location that fit their vision for the movie, but that would have taken time, and would have cost money to travel to film on-location. It was probably cheaper to build a set, and then fill in the background mountains and waterfalls via a greenscreen.
 
 The second example is from The Avengers. It would be rather unrealistic to actually set off an explosion in close proximity to the actors. Rather than doing that, they acted as if there was an explosion with a greenscreen in the background. Later, the video editors replaced the green with an explosion.
